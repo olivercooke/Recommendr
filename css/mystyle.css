@@ -1,0 +1,33 @@
+.page-content{
+    margin-top: 10%;
+    
+}
+
+.my-login-form{
+    margin-top: 3%;
+    padding: 3%;
+    border-color: black;
+    border-style:solid;
+}
+
+.my-page-block{
+    margin-top: 3%;
+    padding:1%;
+    border-color: black;
+    border-style:solid;
+}
+
+.film-poster{
+    
+}
+
+.film-desc-text{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+
+body{
+    background-color: white;
+}
+
